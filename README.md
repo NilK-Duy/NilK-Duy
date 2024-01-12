@@ -3,6 +3,28 @@
   <img src="svg/topBackground.svg" width="1200" alt="topBackground-official" />
 </a>
 
+<h2 align="center">📋 Contact Info 📋</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100019350275527" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="khanhduy-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/duy-nguyen-9ab8472a9" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khanhduy-linkedin" />
+  </a>
+  <a href="#" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="khanhduy-instagram" />
+  </a>
+    <a href="https://discord.gg/y9NY3h3B" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/discord.png" alt="khanhduy-discord" />
+  </a>
+  <a href="mailto:khanhduyxtkd@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="khanhduy-email" />
+  </a>
+</div>
+
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -32,28 +54,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Cloudinary-282C34?logo=cloudinary&logoColor=3448C5" alt="Cloudinary logo" title="Cloudinary" height="25" /></span>
 &nbsp;
-
-<br>
-<h2 align="center">📋 Contact Info 📋</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100019350275527" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="khanhduy-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/duy-nguyen-9ab8472a9" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khanhduy-linkedin" />
-  </a>
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="khanhduy-instagram" />
-  </a>
-    <a href="https://discord.gg/y9NY3h3B" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/discord.png" alt="khanhduy-discord" />
-  </a>
-  <a href="mailto:khanhduyxtkd@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="khanhduy-email" />
-  </a>
-</div>
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
