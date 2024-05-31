@@ -26,7 +26,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&Color=3448C5" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Material UI-282C34?logo=MUI&logoColor=007ACC" alt="MUI logo" title="Material UI" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MUI-282C34?logo=MUI&logoColor=007ACC" alt="MUI logo" title="Material UI" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
