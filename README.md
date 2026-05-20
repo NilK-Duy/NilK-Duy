@@ -24,6 +24,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=Postgresql&Color=1d63ed" alt="MySQL logo" title="PostgreSQL" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&Color=3448C5" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -65,10 +67,10 @@
   </a>
 </div>
 
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- <br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2> -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
+<!-- <br>
 <div align=center>
   <a href="#" title="NilK-Duy">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilK-Duy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -76,7 +78,7 @@
   <a href="#" title="NilK-Duy">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=NilK-Duy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-</div>
+</div> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
